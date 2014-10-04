@@ -1,0 +1,116 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+@font-face {
+    font-family: 'PokemonSolid';
+    src: url(../fonts/PokemonSolid.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+	height: 100%;
+	background: url(../img/pikachu.gif) repeat;
+}
+
+#banner {
+    position: fixed;
+    top: 0em;
+    left: 0em;
+    width: 100%;
+    background-color: #000000;
+    text-align: center;
+}
+
+#banner li {
+	display: inline;
+	font-family: 'Montserrat', Arial, sans-serif;
+	font-weight: 700;
+	font-size: 1em;
+	color: #FFFFFF;
+	padding: 30px;
+}
+
+#banner li:nth-child(1) {
+	color: #999999;
+}
+
+#banner li a, #banner li a:hover {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+#banner li a:hover {
+	color: #4a4a4a;
+}
+
+#header h1 {
+	font-family: 'PokemonSolid', 'Montserrat', Arial, sans-serif;
+	font-weight: 700;
+	font-size: 6em;
+	color: #ffcc02;
+	text-align: center;
+	line-height: 1.5;
+
+	-webkit-font-smoothing: antialiased;
+    -webkit-overflow-scrolling: touch;
+
+	-webkit-text-stroke-width: 0.05em;
+	-webkit-text-stroke-color: #255a90;
+
+	text-shadow: -0.05em 0.1em 0.15em #1b285f;
+}
+
+.button-div {
+	width: 100px;
+	margin: 0 auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#pokem-ipsum-generator {
+
+}
+
+#pokem-ipsum-container {
+	font-family: 'Montserrat', Arial, sans-serif;
+	font-weight: 400;
+	font-size: 1em;
+	color: #2a2a2a;
+	line-height: 1.5;
+
+	padding-top: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+
+	-webkit-font-smoothing: antialiased;
+    -webkit-overflow-scrolling: touch;
+}
+
+#pokem-ipsum-container h2 {
+	padding-top: 0.5em;
+}
+
+#pokem-ipsum-container a {
+	color: #000000;
+}
+
+#pokem-ipsum-container a:hover {
+	color: #777777;
+	text-decoration: none;
+}
+
+.outside-container {
+	min-width: 360px;
+	width: 60%;
+	height: 100%;
+	border: none;
+	margin: 20px auto;
+	background-color: #FFFFFF;
+	border-top: 40px solid #FFFFFF;
+	padding-bottom: 30px;
+}
+
+.motto {
+	font-style: italic;
+	padding-top: 10px;
+}
