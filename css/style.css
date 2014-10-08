@@ -60,11 +60,6 @@ body {
 	text-shadow: -0.05em 0.1em 0.15em #1b285f;
 }
 
-#header a {
-	text-decoration: none;
-	color: #ffcc02;
-}
-
 .button-div {
 	width: 100px;
 	margin: 0 auto;
