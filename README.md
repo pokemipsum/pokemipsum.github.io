@@ -1,7 +1,9 @@
 Pokem Ipsum
 ===========
 
-[Pokem Ipsum](http://pokemipsum.com/) is a Pokemon lorem ipsum generator. Generate filler text with a Pikachu flavor.
+[Pokem Ipsum](http://pokemipsum.com/) is a Pokemon lorem ipsum generator. Generate filler text with a Pikachu flavour.
+
+Go on. Make Pikachu proud.
 
 Author
 ------
@@ -19,6 +21,8 @@ Pokemon font: [Pokemon Solid](http://www.dafont.com/pokemon.font)
 
 Version History
 ---------------
+
+*October 14, 2014:* Included GitHub link, decided I prefer the British spelling of "flavour"
 
 *October 8, 2014:* Added social media buttons, refined 404 page
 
