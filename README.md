@@ -8,7 +8,7 @@ Go on. Make Pikachu proud.
 Author
 ------
 
-Lily Chen: [Send feedback](mailto:pokem@ririchen.com)
+Lily Chen: [Send feedback](mailto:github@pokemipsum.com)
 
 Acknowledgements
 ----------------
@@ -21,6 +21,8 @@ Pokemon font: [Pokemon Solid](http://www.dafont.com/pokemon.font)
 
 Version History
 ---------------
+
+*December 14, 2014:* Updated contact details
 
 *October 14, 2014:* Included GitHub link, decided I prefer the British spelling of "flavour"
 
