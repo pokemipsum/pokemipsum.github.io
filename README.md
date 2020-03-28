@@ -1,7 +1,7 @@
 Pokem Ipsum
 ===========
 
-[Pokem Ipsum](http://pokemipsum.com/) is a Pokemon lorem ipsum generator. Generate filler text with a Pikachu flavour.
+[Pokem Ipsum](https://pokemipsum.com/) is a Pokemon lorem ipsum generator. Generate filler text with a Pikachu flavour.
 
 Go on. Make Pikachu proud.
 
@@ -13,11 +13,11 @@ Lily Chen: [Send feedback](mailto:github@pokemipsum.com)
 Acknowledgements
 ----------------
 
-Dodrio sprite: [Bulbapedia](http://bulbapedia.bulbagarden.net/wiki/Dodrio_%28Pok%C3%A9mon%29)
+Dodrio sprite: [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Dodrio_%28Pok%C3%A9mon%29)
 
-Pikachu sprite: [Pokemon Database](http://pokemondb.net/sprites/pikachu)
+Pikachu sprite: [Pokemon Database](https://pokemondb.net/sprites/pikachu)
 
-Pokemon font: [Pokemon Solid](http://www.dafont.com/pokemon.font)
+Pokemon font: [Pokemon Solid](https://www.dafont.com/pokemon.font)
 
 Version History
 ---------------

@@ -1,4 +1,4 @@
-// Pokem Ipsum, by Lily Chen (hello@pokemipsum.com): http://pokemipsum.com/
+// Pokem Ipsum, by Lily Chen (hello@pokemipsum.com): https://pokemipsum.com/
 
 var main = function() {
 
