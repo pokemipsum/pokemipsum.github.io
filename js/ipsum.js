@@ -2,7 +2,7 @@
 
 var main = function() {
 
-$('#pokem-ipsum-generator').click(function() {
+$('#ipsum-button').click(function() {
 
 $('#pokem-ipsum-container').empty();
 
@@ -67,6 +67,7 @@ var normalSentenceGeneration = function() {
 
 // Generates a paragraph starting with "Pokem ipsum"
 var openingParagraph = function() {
+	$('#pokem-ipsum-container').append('<br/>');
 	pokemIpsumSentenceGeneration();
 	for(x = 0; x < 4; x++) {
 		normalSentenceGeneration();
@@ -83,6 +84,7 @@ var normalParagraph = function() {
 };
 
 // POKEM IPSUM OUTPUT
+
 openingParagraph();
 normalParagraph();
 normalParagraph();

@@ -17,11 +17,13 @@ Dodrio sprite: [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Dodrio_%28Po
 
 Pikachu sprite: [Pokemon Database](https://pokemondb.net/sprites/pikachu)
 
+Pokeball sprite: [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Poké_Ball_%28item%29#Pok.C3.A9_Ball)
+
 Pokemon font: [Pokemon Solid](https://www.dafont.com/pokemon.font)
 
 Version History
 ---------------
-*March 29, 2020:* Changed to HTTPS
+*March 29, 2020:* Changed to HTTPS, made obnoxiously hypnotic Ipsum button
 
 *December 14, 2014:* Updated contact details
 

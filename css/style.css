@@ -28,7 +28,7 @@ body {
 	font-family: 'Montserrat', Arial, sans-serif;
 	font-weight: 700;
 	font-size: 1em;
-	color: #FFFFFF;
+	color: #ffffff;
 	padding: 30px;
 }
 
@@ -37,7 +37,7 @@ body {
 }
 
 #banner li a, #banner li a:hover {
-	color: #FFFFFF;
+	color: #ffffff;
 	text-decoration: none;
 }
 
@@ -67,6 +67,55 @@ body {
 	margin: 0 auto;
 	padding-top: 10px;
 	padding-bottom: 10px;
+}
+
+#ipsum-button {
+	background-color: #f01800; /* red button background in case images don't load */
+	padding: 22px 82px;  /* spinning Pokeball button background */
+  	text-align: center;
+  	text-decoration: none;
+  	font-size: 1em;
+  	background: url(../img/Poké_Ball_battle_V.png);
+  	display: flex;
+  	text-align: center;
+  	justify-content: center;
+  	width: 100px;
+}
+
+#pokem-ipsum-generator {
+	height: 22px;
+
+	font-weight: 900;
+	stroke-color: #255a90;
+	color: #ffcc02;
+	text-shadow: -0.05em 0.1em 0.15em #1b285f;
+
+	background-color: #ffffff;
+	border-color: 1px #000000;
+	border-style: dotted;
+	border-radius: 4px;
+	padding: 0px -520px;
+	margin: 0px -120px;
+}
+
+#pokem-ipsum-generator:hover {
+	font-size: 0.7em;
+	font-weight: 800;
+	stroke-color: #f01800;
+	color: #ffffff;
+	text-shadow: -0.05em 0.1em 0.25em #000000;
+
+	background-color: #f01800;
+	background-transform: scaleX(-1);
+}
+
+#pokem-ipsum-generator:active {
+	font-weight: 900;
+	stroke-color: #255a90;
+	color: #ffcc02;
+	text-shadow: -0.05em 0.1em 0.25em #1b285f;
+
+	background-transform: scaleX(-1);
 }
 
 #pokem-ipsum-container {
@@ -103,8 +152,8 @@ body {
 	height: 100%;
 	border: none;
 	margin: 20px auto;
-	background-color: #FFFFFF;
-	border-top: 40px solid #FFFFFF;
+	background-color: #ffffff;
+	border-top: 40px solid #ffffff;
 	padding-bottom: 30px;
 }
 
