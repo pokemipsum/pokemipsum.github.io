@@ -23,6 +23,8 @@ Pokemon font: [Pokemon Solid](https://www.dafont.com/pokemon.font)
 
 Version History
 ---------------
+*June 12, 2022:* Updated Google Analytics
+
 *March 29, 2020:* Changed to HTTPS, made obnoxiously hypnotic Ipsum button
 
 *December 14, 2014:* Updated contact details
