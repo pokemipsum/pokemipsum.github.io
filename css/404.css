@@ -8,6 +8,12 @@ body {
 	background: url(https://pokemipsum.com/img/dodrio.gif) repeat;
 }
 
+@media (prefers-reduced-motion: reduce) {
+	body {
+		background: url(http://pokemipsum.com/img/dodrio-still.png) repeat;
+	}
+}
+
 #banner {
     position: fixed;
     top: 0;
